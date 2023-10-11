@@ -15,7 +15,7 @@ const idElement = document.querySelector("#optionsList")
 
 const idParent = idElement.parentElement
 
-const idChild = idElement.children
+const idChild = idElement.childNodes
 
 
 console.log(idElement);
