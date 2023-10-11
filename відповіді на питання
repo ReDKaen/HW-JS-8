@@ -1,0 +1,5 @@
+1. DOM - це метод зв`язки верстки і js коду
+
+2. innerHTML може повертати теги а innerText - ні 
+
+3. getElementByTagName, getElementByClassName, getElementByName, getElementById, querySelector, querySelectorAll, 
